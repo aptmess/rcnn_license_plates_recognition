@@ -1,4 +1,4 @@
-# RCNN License Plates Recognition
+# CRNN License Plates Recognition
 
 Вступительный экзамен DL Advanced Весна'23 - реализация `CRNN` для решения задачи OCR распознавания автомобильных номеров.
 
